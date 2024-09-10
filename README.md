@@ -1,4 +1,4 @@
- Catfish Sales Forecasting Model
+# Catfish Sales Forecasting Model
 
 Project Objective: Developing a predecitve model for forecasting the sales of catfish based on the previous year seasonal patterns.
     
